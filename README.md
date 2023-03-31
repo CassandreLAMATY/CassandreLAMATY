@@ -1,24 +1,21 @@
 <h2 align="left">Hello, world!</h2>
 
-###
-
 <p align="left">Je suis</p>
 <h3>Cassandre Lamaty.</h3>
 <h4 align="left">Je transforme vos idées en produits concrets.</h4>
-
-###
-
 <p align="left">Développeuse Full Stack junior passionnée par l'informatique sous toutes ses facettes, je suis créative, curieuse, ingénieuse mais avant tout polyvalente. De la conception à la publication, je vous accompagne tout au long de vos projets.</p>
 
-###
+<br><br>
 
+<h2>Mes statistiques...</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CassandreLAMATY&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=CassandreLAMATY&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+<br><br>
 
+<h2>Ce que je maîtrise...</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
