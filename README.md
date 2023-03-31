@@ -3,13 +3,7 @@
 ###
 
 <p align="left">Je suis</p>
-
-###
-
 <h3 align="left">Cassandre Lamaty.</h3>
-
-###
-
 <h4 align="left">Je transforme vos idées en produits concrets.</h4>
 
 ###
